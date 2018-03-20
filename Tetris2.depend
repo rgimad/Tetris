@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1521236310 source:c:\users\gimadutdin\desktop\problems\tetris2\library.c
+	"library.h"
+
+1521235769 c:\users\gimadutdin\desktop\problems\tetris2\library.h
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+
+1521236205 source:c:\users\gimadutdin\desktop\problems\tetris2\main.c
+	"library.h"
+
